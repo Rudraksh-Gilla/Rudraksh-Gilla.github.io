@@ -14,3 +14,4 @@ button.addEventListener('click', function() {
         alert('jk bro'); // Display a follow-up message
     }, 2000); // 2000 milliseconds = 2 seconds
 });
+// hehehehehe troll bru
